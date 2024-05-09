@@ -8,7 +8,7 @@ function SingleProducts(){
              <h1 className='font-semibold text-3xl'>
               Follow products and discounts on Instagram</h1>
         </div>
-        <div className='flex flex-wrap gap-4 items-center  mb-20'>
+        <div className='flex flex-wrap gap-4 items-center  mb-20 md: justify-center'>
            <Link to = "/" > <img className="w-40 h-48 " src = "/images/products/card13.png" /></Link>
           <Link to = "/" > <img className="w-40 h-48 " src = "/images/products/card14.png"/></Link>
           <Link to = "/" > <img className="w-40 h-48 " src = "/images/products/card15.png"/></Link>
